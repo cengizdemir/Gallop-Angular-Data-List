@@ -1,0 +1,135 @@
+@import url(
+  http://fonts.googleapis.com/css?family=Open+Sans:400,
+  300,
+  300italic,
+  400italic,
+  600,
+  600italic,
+  700,
+  700italic,
+  800,
+  800italic
+);
+body {
+  color: #797979;
+  background: #f1f2f7;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  margin: 0px !important;
+  font-size: 13px;
+  line-height: 1.428571429;
+}
+.container {
+  background: #fff;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+.panel-heading {
+  border-color: #eff2f7;
+  font-size: 16px;
+  font-weight: 200;
+  padding: 15px 0;
+  border-bottom: 1px solid transparent;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom: #eff2f7 solid 1px;
+}
+.panel-body ul {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+.showoutherlist {
+  padding: 10px 4px 0 0;
+  margin: 0px;
+}
+.showoutherlist ul {
+  border-color: #eff2f7;
+  color: #797979;
+  font-size: 14px;
+  font-weight: 300;
+}
+.showoutherlist ul li {
+  border-top: 1px solid #eff2f7;
+  margin-bottom: 8px !important;
+}
+#list li {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+#list li .frame {
+  padding: 0px;
+  margin-left: 0;
+  color: red;
+  border: 1px solid #eff2f7;
+  min-height: 166px;
+}
+#list li .productname {
+  color: #222222;
+  min-width: 100%;
+  background: #f7f7f7;
+  min-height: 45px;
+  padding-left: 10px;
+}
+#list li .productimg {
+  margin-top: 10px;
+  padding-left: 10px;
+  min-height: 45px;
+}
+#list li .productimg img {
+  border-radius: 5%;
+  width: 100px;
+  height: 100px;
+}
+.length {
+  width: 60px;
+  height: 35px;
+  margin-top: 10px;
+}
+#search {
+  width: 60%;
+  height: 35px;
+  outline: none;
+  border-color: #666 solid 1px;
+}
+.page_s h3 {
+  font-size: 12px !important;
+}
+.pagination {
+  border-radius: none;
+}
+.pagination > li > a,
+.pagination > li > span {
+  border: none !important;
+  color: #000 !important;
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+  background: none;
+}
+.pagination > li > a:hover {
+  background: none;
+  color: #999;
+}
+.pagination > li > a i {
+  color: #41cbbe;
+  font-size: 13px;
+}
+.pagination > .disabled > a i {
+  color: #ddd;
+  background: none;
+}
+.pagination > .disabled > a {
+  color: #000;
+  background: none;
+}
+.pagination > li > a:link {
+  background: none;
+  color: #333;
+}
+header a {
+  color: #797979;
+}
+header i {
+  font-size: 25px !important;
+  padding-left: 10px;
+}
