@@ -1,6 +1,6 @@
 # Gallop Angular Data List
 
-Gallop Angular Data List & Data Table @2015
+**Gallop** Angular Data List & Data Table @2015<br/>
 
 <br>
 <p align="center">
@@ -11,7 +11,7 @@ Gallop Angular Data List & Data Table @2015
 
 ## Screen Shout
 
-[<img src="assets/Cover.jpg" width='100%' height='auto'>](http://google.com.tr)
+[<img src="assets/Cover.jpg" width='100%' height='auto'>](https://gallop-angular-data-list.herokuapp.com/)
 
 ## Using
 
@@ -32,3 +32,6 @@ python -m SimpleHTTPServer
 ```
 
 Open browser and go [http://localhost:8000/](http://localhost:8000/)
+
+[Gallop Project](https://gallop-angular-data-list.herokuapp.com/)<br/>
+[Gallop Repository](https://github.com/cengizdemir/Gallop-Angular-Data-List)
